@@ -4,8 +4,8 @@ Architecture: amd64
 Maintainer: ShieldDog-ACE <https://github.com/ShieldDog-ACE/maio-cluster>
 Installed-Size: 0
 Filename: ./maio-cluster_4.1.2_amd64.deb
-Size: 3342434
-SHA256: 02800137dc6800298dc1fb79dd498df3ebb5f26a35a362d7774e122c56a964f7
+Size: 3345854
+SHA256: 09f687bfc3b3d03a8f43bd9a894566a89bd24c135bf51ea56c104322d651525d
 Section: net
 Priority: optional
 Description: maio distributed llama.cpp cluster
