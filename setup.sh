@@ -7,7 +7,7 @@
 # deployment, mirror the repository internally and sign it with your own key.
 set -eu
 
-REPO="${MAIO_APT_URL:-https://raw.githubusercontent.com/ShieldDog-ACE/maio-apt/main}"
+REPO="${MAIO_APT_URL:-https://cdn.jsdelivr.net/gh/ShieldDog-ACE/maio-apt@main}"
 LIST=/etc/apt/sources.list.d/maio.list
 
 if [ "$(id -u)" -ne 0 ]; then
